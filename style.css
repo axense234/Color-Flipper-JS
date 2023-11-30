@@ -78,6 +78,7 @@ html {
 
 .color-flipper-container__content > p {
   font-size: 2rem;
+  text-align: center;
 }
 
 .color-flipper-container__content > button {
@@ -91,4 +92,16 @@ html {
 
 .color-flipper-container__content > button:hover {
   transform: scale(1.1);
+}
+
+@media all and (max-width: 500px) {
+  .nav-container > h1 {
+    font-size: 1.5rem;
+  }
+  .page-links-container > a {
+    font-size: 0.8rem;
+  }
+  .color-flipper-container__content > p {
+    font-size: 1.25rem;
+  }
 }

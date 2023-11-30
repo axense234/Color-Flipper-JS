@@ -28,6 +28,8 @@ git clone https://github.com/axense234/Color-Flipper-JS.git
 
 ## **Version History**
 
+- 0.3
+  - Analyzed code to gather to-do tasks and media queried the website for mobile devices
 - 0.2
   - Made the website look better,also improved the JS logic
   - See [commit change](https://github.com/axense234/Color-Flipper-JS/commits/master) or See [release history](https://github.com/axense234/Color-Flipper-JS/releases)
